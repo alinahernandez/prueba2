@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Alumno\Documents\segundoparcialalina\VendedoresAlina\.metadata\.plugins\org.eclipse.jdt.core
+2799831911.index
+1480764762.index
+1865797976.index

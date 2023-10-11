@@ -1,0 +1,19 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+import javax.swing.JOptionPane;
+
+public class conectar {
+	public void conexion() {
+		try {
+			Connection conexion = DriverManager.getConnection("idbc://mysql://Localhost/3306/nuevacompra");
+		
+
+}
+		catch (Exception e) {
+			JOptionPane.showMessageDialog(null, "No");
+			// TODO: handle exception
+		}
+	}
+}
+
